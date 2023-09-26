@@ -1,0 +1,22 @@
+.buttoncss {
+  background-color: #28343e !important;
+  cursor: pointer;
+}
+.maindiv {
+  background-color: #1d262d;
+}
+
+.letterclass {
+  font-family: "Roboto";
+  /* line-height: 36px; */
+}
+
+.alternateclass {
+  color: #fe7912;
+}
+
+.line {
+  width: 0.2rem;
+  background-color: #fe7912;
+  padding: 0;
+}

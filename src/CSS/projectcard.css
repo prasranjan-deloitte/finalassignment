@@ -1,0 +1,21 @@
+.date-color {
+  color: #777778;
+}
+.priority-button-class {
+  background-color: red;
+  color: white;
+  width: 4rem;
+  border: none;
+}
+
+.color-class1 {
+  background-color: #28a745;
+}
+
+.color-class2 {
+  background-color: #ebaa02;
+}
+
+.color-class3 {
+  background-color: #dc3545;
+}

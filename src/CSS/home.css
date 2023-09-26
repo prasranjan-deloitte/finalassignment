@@ -1,0 +1,18 @@
+.imageHeight {
+  height: 200px;
+}
+.center {
+  position: relative;
+  top: 30%;
+  left: 20%;
+  font-family: "Roboto";
+}
+.feildCSS {
+  width: 40rem;
+  border-bottom: solid #777778;
+  background-color: #f7f8fa;
+  height: 3rem;
+}
+.fontFamily {
+  font-family: "Roboto";
+}

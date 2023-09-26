@@ -1,0 +1,22 @@
+.inputfeild {
+  height: 5rem;
+  background: #f7f8fa;
+  color: black;
+}
+
+.inputsection {
+  flex: 8;
+}
+.profilesection {
+  height: 5rem;
+  background: #f7f8fa;
+  flex: 2;
+}
+.profilephoto {
+  cursor: pointer;
+}
+.signout {
+  position: absolute;
+  right: 7rem;
+  top: 1rem;
+}

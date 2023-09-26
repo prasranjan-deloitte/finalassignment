@@ -1,0 +1,15 @@
+.detailtext {
+  font-size: 2rem;
+}
+
+.date {
+  color: #85929c;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.assignne {
+  width: 19.5rem;
+  border-bottom: solid #777778;
+  background-color: #f7f8fa;
+  height: 3rem;
+}
